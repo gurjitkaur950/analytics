@@ -33,7 +33,9 @@
             </fieldset>
             <br/>
             <br/>
-            <h2>Quote of the Day: </h2><h3><i>"If we manage ego wisely, we get the upside it delivers followed by strong returns."</i></h3>
+            <?php
+            echo"<h2>Quote of the Day: </h2><h3><i>If we manage ego wisely, we get the upside it delivers followed by strong returns.</i></h3>";
+?>
         </main>
          <footer>
                
